@@ -1,4 +1,4 @@
-## Oii! Sou o Jonas Victor 👾
+## Oii eu sou o Jonas Victor, fascinado por tecnologia! 👾
 
 - 🌱 Estudando front-end e qualidade
 - 📫 Contate-me no email: jonas.victor@dcx.ufpb.br
