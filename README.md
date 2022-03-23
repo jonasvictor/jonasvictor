@@ -1,10 +1,8 @@
-<div align="center">
-## Oii eu sou o Jonas Victor, fascinado por tecnologia! 👾
+##
 
-- 🌱 Estudando front-end e qualidade
-- 📫 Contate-me no email: jonas.victor@dcx.ufpb.br
-- 🤖 Curiosidade em jogos autorais
-</div>
+### <i><strong>Olá sou Jonas Victor</strong></i>
+
+<i>Sempre em busca de aprender algo novo, atualmente contribuo em um projeto de jogos autorais pela UFPB, fora do curso estudo front-end e qualidade que são as áreas que eu mais gosto e tenho interesse, sou fascinado por jogos e novas tecnologias!!!</i> 👾
 
 ##
 
@@ -25,6 +23,7 @@
 ##
   
 <div align="center">
+  <a href = "mailto:jonas.victor@dcx.ufpb.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jonas-victor-858863211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/jonasvictor/jonasvictor/blob/output/github-contribution-grid-snake.svg)
