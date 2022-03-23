@@ -25,7 +25,7 @@
 ##
 
 <div align="center">
-  <i><strong>Contate-me📩</i><strong>
+  <i><strong>Contate-me 📩</i><strong>
 </strong></i>
 </div>
   
