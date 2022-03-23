@@ -3,7 +3,7 @@
 
 <i><strong>Oii, sou Jonas Victor!</strong></i> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">
 ###
-<i>Sempre em busca de aprender algo novo, atualmente contribuo em um projeto de jogos autorais pela UFPB, fora do curso estudo front-end e qualidade que são as áreas que eu mais gosto e tenho interesse, sou fascinado por jogos e novas tecnologias!!!👾</i>
+<i>Sempre em busca de aprender algo novo, atualmente contribuo em um projeto de jogos autorais pela UFPB, fora do curso estudo front-end e qualidade que são as áreas que mais gosto e tenho interesse, sou fascinado por jogos e novas tecnologias!!!👾</i>
 <i>=> Hobbies:🎮🎸🚵🏼</i>
 </div>
 
