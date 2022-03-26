@@ -1,4 +1,3 @@
-##
 <div align="center">
 
 <i><strong>Oii, sou Jonas Victor!</strong></i> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">
