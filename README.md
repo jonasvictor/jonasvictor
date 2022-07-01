@@ -2,7 +2,7 @@
 
 <i><strong>Oii, sou Jonas Victor!!!</strong></i>
 ###
-<i>Sempre em busca de aprender algo novo, atualmente contribuo em um projeto de jogos autorais pela UFPB, fora do curso estudo front-end e qualidade que são as áreas que mais gosto e tenho interesse, sou fascinado por jogos e novas tecnologias!!!👾</i>
+<i>Sempre em busca de aprender algo novo, atualmente faço parte do projeto AYTY, onde estou tendo a oportunidade de está como aprendiz em uma empresa desenvolvendo em back-end, e também contribuo em um projeto de jogos autorais, e fora do curso gosto de estudar front-end e qualidade, sou fascinado por jogos e novas tecnologias!!!👾</i>
 <i>=> Hobbies:🎮🎸🚵🏼</i>
 </div>
 
